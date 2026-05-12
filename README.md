@@ -82,7 +82,7 @@ The dataset can be downloaded from either of the following sources:
 
 | Source | Link |
 | :--- | :--- |
-| Google Drive | [Download](https://drive.google.com/drive/folders/13rqCsIv7xYRCw7HJcr53WZAZ4Kpc1VFm?usp=sharing) |  |
+| Google Drive | [Download](https://drive.google.com/drive/folders/1n-8sTo1OgN96dZuAWCdYVPaPaMVMSDl8?usp=drive_link) |  |
 | Quark Netdisk | [Download](https://pan.quark.cn/s/b31275a7f7e2) | 
 
 ### **What's inside?**
