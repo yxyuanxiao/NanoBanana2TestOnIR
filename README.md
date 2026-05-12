@@ -1,7 +1,6 @@
 <div align="center">
 
-# Can Nano Banana 2 Replace Traditional Image Restoration Models?  
-## An Evaluation of Its Performance on Image Restoration Tasks
+# Can Nano Banana 2 Replace Traditional Image Restoration Models? An Evaluation of Its Performance on Image Restoration Tasks
 
 </div>
 
